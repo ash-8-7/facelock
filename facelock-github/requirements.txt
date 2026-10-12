@@ -1,0 +1,4 @@
+opencv-contrib-python==4.13.0.90
+numpy==2.5.3
+Pillow==12.3.0
+keyboard==0.13.5
